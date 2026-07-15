@@ -1,0 +1,641 @@
+match_id,coach,team,dimension,contribution
+1505413955264,Jorge Sampaoli,Argentina,buildup_quality,264.0
+1505413955264,Jorge Sampaoli,Argentina,chance_creation,35.5
+1505413955264,Jorge Sampaoli,Argentina,defensive_organisation,15.0
+1505413955264,Jorge Sampaoli,Argentina,pressing_structure,129.0
+1505413955264,Jorge Sampaoli,Argentina,set_pieces,17.5
+1505419756160,Jorge Sampaoli,Argentina,buildup_quality,77.5
+1505419756160,Jorge Sampaoli,Argentina,chance_creation,28.0
+1505419756160,Jorge Sampaoli,Argentina,defensive_organisation,11.0
+1505419756160,Jorge Sampaoli,Argentina,pressing_structure,83.5
+1505419756160,Jorge Sampaoli,Argentina,set_pieces,3.5
+1505424995648,Jorge Sampaoli,Argentina,buildup_quality,134.0
+1505424995648,Jorge Sampaoli,Argentina,chance_creation,31.0
+1505424995648,Jorge Sampaoli,Argentina,defensive_organisation,35.5
+1505424995648,Jorge Sampaoli,Argentina,pressing_structure,85.0
+1505424995648,Jorge Sampaoli,Argentina,set_pieces,4.0
+1505498319744,Jorge Sampaoli,Argentina,buildup_quality,108.5
+1505498319744,Jorge Sampaoli,Argentina,chance_creation,25.5
+1505498319744,Jorge Sampaoli,Argentina,defensive_organisation,21.5
+1505498319744,Jorge Sampaoli,Argentina,pressing_structure,80.0
+1505498319744,Jorge Sampaoli,Argentina,set_pieces,9.7
+1505397395456,Bert van Marwijk,Australia,buildup_quality,-1.0
+1505397395456,Bert van Marwijk,Australia,chance_creation,2.0
+1505397395456,Bert van Marwijk,Australia,defensive_organisation,49.5
+1505397395456,Bert van Marwijk,Australia,pressing_structure,39.0
+1505397395456,Bert van Marwijk,Australia,set_pieces,2.3
+1505405565568,Bert van Marwijk,Australia,buildup_quality,115.5
+1505405565568,Bert van Marwijk,Australia,chance_creation,29.0
+1505405565568,Bert van Marwijk,Australia,defensive_organisation,35.5
+1505405565568,Bert van Marwijk,Australia,pressing_structure,70.0
+1505405565568,Bert van Marwijk,Australia,set_pieces,6.5
+1505411108224,Bert van Marwijk,Australia,buildup_quality,157.5
+1505411108224,Bert van Marwijk,Australia,chance_creation,30.5
+1505411108224,Bert van Marwijk,Australia,defensive_organisation,45.0
+1505411108224,Bert van Marwijk,Australia,pressing_structure,113.0
+1505411108224,Bert van Marwijk,Australia,set_pieces,17.4
+1505463762304,Roberto Martínez,Belgium,buildup_quality,148.5
+1505463762304,Roberto Martínez,Belgium,chance_creation,34.5
+1505463762304,Roberto Martínez,Belgium,defensive_organisation,20.0
+1505463762304,Roberto Martínez,Belgium,pressing_structure,75.0
+1505463762304,Roberto Martínez,Belgium,set_pieces,12.7
+1505468855744,Roberto Martínez,Belgium,buildup_quality,101.0
+1505468855744,Roberto Martínez,Belgium,chance_creation,69.5
+1505468855744,Roberto Martínez,Belgium,defensive_organisation,29.5
+1505468855744,Roberto Martínez,Belgium,pressing_structure,69.0
+1505468855744,Roberto Martínez,Belgium,set_pieces,3.5
+1505473942272,Roberto Martínez,Belgium,buildup_quality,62.5
+1505473942272,Roberto Martínez,Belgium,chance_creation,24.5
+1505473942272,Roberto Martínez,Belgium,defensive_organisation,52.0
+1505473942272,Roberto Martínez,Belgium,pressing_structure,50.5
+1505473942272,Roberto Martínez,Belgium,set_pieces,3.6
+1505511017536,Roberto Martínez,Belgium,buildup_quality,160.5
+1505511017536,Roberto Martínez,Belgium,chance_creation,80.5
+1505511017536,Roberto Martínez,Belgium,defensive_organisation,33.0
+1505511017536,Roberto Martínez,Belgium,pressing_structure,80.0
+1505511017536,Roberto Martínez,Belgium,set_pieces,9.7
+1505522652224,Roberto Martínez,Belgium,buildup_quality,63.5
+1505522652224,Roberto Martínez,Belgium,chance_creation,18.5
+1505522652224,Roberto Martínez,Belgium,defensive_organisation,30.5
+1505522652224,Roberto Martínez,Belgium,pressing_structure,48.0
+1505522652224,Roberto Martínez,Belgium,set_pieces,4.7
+1505531687424,Roberto Martínez,Belgium,buildup_quality,175.0
+1505531687424,Roberto Martínez,Belgium,chance_creation,32.5
+1505531687424,Roberto Martínez,Belgium,defensive_organisation,-1.5
+1505531687424,Roberto Martínez,Belgium,pressing_structure,69.0
+1505531687424,Roberto Martínez,Belgium,set_pieces,3.5
+1505537880320,Roberto Martínez,Belgium,buildup_quality,148.5
+1505537880320,Roberto Martínez,Belgium,chance_creation,39.0
+1505537880320,Roberto Martínez,Belgium,defensive_organisation,38.0
+1505537880320,Roberto Martínez,Belgium,pressing_structure,33.0
+1505537880320,Roberto Martínez,Belgium,set_pieces,5.2
+1505430370752,Tite,Brazil,buildup_quality,137.0
+1505430370752,Tite,Brazil,chance_creation,35.5
+1505430370752,Tite,Brazil,defensive_organisation,46.5
+1505430370752,Tite,Brazil,pressing_structure,116.5
+1505430370752,Tite,Brazil,set_pieces,10.6
+1505436046848,Tite,Brazil,buildup_quality,268.5
+1505436046848,Tite,Brazil,chance_creation,63.5
+1505436046848,Tite,Brazil,defensive_organisation,32.0
+1505436046848,Tite,Brazil,pressing_structure,125.5
+1505436046848,Tite,Brazil,set_pieces,8.0
+1505441852800,Tite,Brazil,buildup_quality,117.0
+1505441852800,Tite,Brazil,chance_creation,39.5
+1505441852800,Tite,Brazil,defensive_organisation,63.0
+1505441852800,Tite,Brazil,pressing_structure,80.5
+1505441852800,Tite,Brazil,set_pieces,11.7
+1505508243008,Tite,Brazil,buildup_quality,82.5
+1505508243008,Tite,Brazil,chance_creation,45.5
+1505508243008,Tite,Brazil,defensive_organisation,44.5
+1505508243008,Tite,Brazil,pressing_structure,88.0
+1505508243008,Tite,Brazil,set_pieces,6.9
+1505522652224,Tite,Brazil,buildup_quality,154.0
+1505522652224,Tite,Brazil,chance_creation,64.0
+1505522652224,Tite,Brazil,defensive_organisation,38.5
+1505522652224,Tite,Brazil,pressing_structure,89.0
+1505522652224,Tite,Brazil,set_pieces,11.4
+1505481905024,José Pékerman,Colombia,buildup_quality,78.0
+1505481905024,José Pékerman,Colombia,chance_creation,21.0
+1505481905024,José Pékerman,Colombia,defensive_organisation,16.5
+1505481905024,José Pékerman,Colombia,pressing_structure,58.0
+1505481905024,José Pékerman,Colombia,set_pieces,10.4
+1505484801024,José Pékerman,Colombia,buildup_quality,99.0
+1505484801024,José Pékerman,Colombia,chance_creation,36.5
+1505484801024,José Pékerman,Colombia,defensive_organisation,66.0
+1505484801024,José Pékerman,Colombia,pressing_structure,63.5
+1505484801024,José Pékerman,Colombia,set_pieces,12.0
+1505492994624,José Pékerman,Colombia,buildup_quality,15.5
+1505492994624,José Pékerman,Colombia,chance_creation,8.5
+1505492994624,José Pékerman,Colombia,defensive_organisation,19.0
+1505492994624,José Pékerman,Colombia,pressing_structure,59.5
+1505492994624,José Pékerman,Colombia,set_pieces,12.4
+1505516456320,José Pékerman,Colombia,buildup_quality,94.0
+1505516456320,José Pékerman,Colombia,chance_creation,36.0
+1505516456320,José Pékerman,Colombia,defensive_organisation,34.5
+1505516456320,José Pékerman,Colombia,pressing_structure,92.5
+1505516456320,José Pékerman,Colombia,set_pieces,9.6
+1505433236736,Óscar Ramírez,Costa Rica,buildup_quality,120.5
+1505433236736,Óscar Ramírez,Costa Rica,chance_creation,27.0
+1505433236736,Óscar Ramírez,Costa Rica,defensive_organisation,36.0
+1505433236736,Óscar Ramírez,Costa Rica,pressing_structure,77.0
+1505433236736,Óscar Ramírez,Costa Rica,set_pieces,5.5
+1505436046848,Óscar Ramírez,Costa Rica,buildup_quality,3.5
+1505436046848,Óscar Ramírez,Costa Rica,chance_creation,9.5
+1505436046848,Óscar Ramírez,Costa Rica,defensive_organisation,36.0
+1505436046848,Óscar Ramírez,Costa Rica,pressing_structure,29.0
+1505436046848,Óscar Ramírez,Costa Rica,set_pieces,0.3
+1505444971392,Óscar Ramírez,Costa Rica,buildup_quality,86.0
+1505444971392,Óscar Ramírez,Costa Rica,chance_creation,30.0
+1505444971392,Óscar Ramírez,Costa Rica,defensive_organisation,22.5
+1505444971392,Óscar Ramírez,Costa Rica,pressing_structure,91.5
+1505444971392,Óscar Ramírez,Costa Rica,set_pieces,11.5
+1505417014848,Zlatko Dalić,Croatia,buildup_quality,80.0
+1505417014848,Zlatko Dalić,Croatia,chance_creation,24.5
+1505417014848,Zlatko Dalić,Croatia,defensive_organisation,49.0
+1505417014848,Zlatko Dalić,Croatia,pressing_structure,92.0
+1505417014848,Zlatko Dalić,Croatia,set_pieces,6.8
+1505419756160,Zlatko Dalić,Croatia,buildup_quality,33.0
+1505419756160,Zlatko Dalić,Croatia,chance_creation,34.0
+1505419756160,Zlatko Dalić,Croatia,defensive_organisation,32.5
+1505419756160,Zlatko Dalić,Croatia,pressing_structure,54.0
+1505419756160,Zlatko Dalić,Croatia,set_pieces,2.1
+1505427847744,Zlatko Dalić,Croatia,buildup_quality,62.0
+1505427847744,Zlatko Dalić,Croatia,chance_creation,19.0
+1505427847744,Zlatko Dalić,Croatia,defensive_organisation,24.0
+1505427847744,Zlatko Dalić,Croatia,pressing_structure,40.5
+1505427847744,Zlatko Dalić,Croatia,set_pieces,6.5
+1505504636544,Zlatko Dalić,Croatia,buildup_quality,119.0
+1505504636544,Zlatko Dalić,Croatia,chance_creation,36.0
+1505504636544,Zlatko Dalić,Croatia,defensive_organisation,63.5
+1505504636544,Zlatko Dalić,Croatia,pressing_structure,101.0
+1505504636544,Zlatko Dalić,Croatia,set_pieces,6.0
+1505525382400,Zlatko Dalić,Croatia,buildup_quality,130.0
+1505525382400,Zlatko Dalić,Croatia,chance_creation,57.0
+1505525382400,Zlatko Dalić,Croatia,defensive_organisation,30.5
+1505525382400,Zlatko Dalić,Croatia,pressing_structure,124.0
+1505525382400,Zlatko Dalić,Croatia,set_pieces,15.9
+1505534455168,Zlatko Dalić,Croatia,buildup_quality,143.5
+1505534455168,Zlatko Dalić,Croatia,chance_creation,54.0
+1505534455168,Zlatko Dalić,Croatia,defensive_organisation,53.0
+1505534455168,Zlatko Dalić,Croatia,pressing_structure,84.0
+1505534455168,Zlatko Dalić,Croatia,set_pieces,9.4
+1505540711552,Zlatko Dalić,Croatia,buildup_quality,141.0
+1505540711552,Zlatko Dalić,Croatia,chance_creation,40.5
+1505540711552,Zlatko Dalić,Croatia,defensive_organisation,23.5
+1505540711552,Zlatko Dalić,Croatia,pressing_structure,89.5
+1505540711552,Zlatko Dalić,Croatia,set_pieces,11.8
+1505400047936,Åge Hareide,Denmark,buildup_quality,90.5
+1505400047936,Åge Hareide,Denmark,chance_creation,25.0
+1505400047936,Åge Hareide,Denmark,defensive_organisation,19.0
+1505400047936,Åge Hareide,Denmark,pressing_structure,82.0
+1505400047936,Åge Hareide,Denmark,set_pieces,5.6
+1505405565568,Åge Hareide,Denmark,buildup_quality,145.0
+1505405565568,Åge Hareide,Denmark,chance_creation,37.0
+1505405565568,Åge Hareide,Denmark,defensive_organisation,35.5
+1505405565568,Åge Hareide,Denmark,pressing_structure,73.5
+1505405565568,Åge Hareide,Denmark,set_pieces,5.9
+1505408315648,Åge Hareide,Denmark,buildup_quality,33.5
+1505408315648,Åge Hareide,Denmark,chance_creation,1.5
+1505408315648,Åge Hareide,Denmark,defensive_organisation,57.5
+1505408315648,Åge Hareide,Denmark,pressing_structure,59.5
+1505408315648,Åge Hareide,Denmark,set_pieces,4.7
+1505504636544,Åge Hareide,Denmark,buildup_quality,119.0
+1505504636544,Åge Hareide,Denmark,chance_creation,29.0
+1505504636544,Åge Hareide,Denmark,defensive_organisation,58.0
+1505504636544,Åge Hareide,Denmark,pressing_structure,101.5
+1505504636544,Åge Hareide,Denmark,set_pieces,3.2
+1507513892608,Héctor Cúper,Egypt,buildup_quality,65.0
+1507513892608,Héctor Cúper,Egypt,chance_creation,12.5
+1507513892608,Héctor Cúper,Egypt,defensive_organisation,56.0
+1507513892608,Héctor Cúper,Egypt,pressing_structure,63.0
+1507513892608,Héctor Cúper,Egypt,set_pieces,1.0
+1507516947840,Héctor Cúper,Egypt,buildup_quality,99.0
+1507516947840,Héctor Cúper,Egypt,chance_creation,29.5
+1507516947840,Héctor Cúper,Egypt,defensive_organisation,51.5
+1507516947840,Héctor Cúper,Egypt,pressing_structure,108.0
+1507516947840,Héctor Cúper,Egypt,set_pieces,6.2
+1507525207360,Héctor Cúper,Egypt,buildup_quality,53.5
+1507525207360,Héctor Cúper,Egypt,chance_creation,22.0
+1507525207360,Héctor Cúper,Egypt,defensive_organisation,40.0
+1507525207360,Héctor Cúper,Egypt,pressing_structure,51.0
+1507525207360,Héctor Cúper,Egypt,set_pieces,1.6
+1505466352512,Gareth Southgate,England,buildup_quality,138.0
+1505466352512,Gareth Southgate,England,chance_creation,37.0
+1505466352512,Gareth Southgate,England,defensive_organisation,9.5
+1505466352512,Gareth Southgate,England,pressing_structure,105.5
+1505466352512,Gareth Southgate,England,set_pieces,29.1
+1505471455616,Gareth Southgate,England,buildup_quality,163.0
+1505471455616,Gareth Southgate,England,chance_creation,26.5
+1505471455616,Gareth Southgate,England,defensive_organisation,19.0
+1505471455616,Gareth Southgate,England,pressing_structure,54.5
+1505471455616,Gareth Southgate,England,set_pieces,9.9
+1505473942272,Gareth Southgate,England,buildup_quality,67.5
+1505473942272,Gareth Southgate,England,chance_creation,22.0
+1505473942272,Gareth Southgate,England,defensive_organisation,4.5
+1505473942272,Gareth Southgate,England,pressing_structure,68.5
+1505473942272,Gareth Southgate,England,set_pieces,11.1
+1505516456320,Gareth Southgate,England,buildup_quality,110.5
+1505516456320,Gareth Southgate,England,chance_creation,34.0
+1505516456320,Gareth Southgate,England,defensive_organisation,60.0
+1505516456320,Gareth Southgate,England,pressing_structure,101.5
+1505516456320,Gareth Southgate,England,set_pieces,16.1
+1505528995392,Gareth Southgate,England,buildup_quality,108.5
+1505528995392,Gareth Southgate,England,chance_creation,23.0
+1505528995392,Gareth Southgate,England,defensive_organisation,27.5
+1505528995392,Gareth Southgate,England,pressing_structure,105.5
+1505528995392,Gareth Southgate,England,set_pieces,11.8
+1505534455168,Gareth Southgate,England,buildup_quality,94.5
+1505534455168,Gareth Southgate,England,chance_creation,26.0
+1505534455168,Gareth Southgate,England,defensive_organisation,59.0
+1505534455168,Gareth Southgate,England,pressing_structure,95.0
+1505534455168,Gareth Southgate,England,set_pieces,15.7
+1505537880320,Gareth Southgate,England,buildup_quality,165.0
+1505537880320,Gareth Southgate,England,chance_creation,34.0
+1505537880320,Gareth Southgate,England,defensive_organisation,23.5
+1505537880320,Gareth Southgate,England,pressing_structure,51.5
+1505537880320,Gareth Southgate,England,set_pieces,6.5
+1505397395456,Didier Deschamps,France,buildup_quality,133.5
+1505397395456,Didier Deschamps,France,chance_creation,24.5
+1505397395456,Didier Deschamps,France,defensive_organisation,53.5
+1505397395456,Didier Deschamps,France,pressing_structure,83.5
+1505397395456,Didier Deschamps,France,set_pieces,10.5
+1505402599744,Didier Deschamps,France,buildup_quality,126.0
+1505402599744,Didier Deschamps,France,chance_creation,29.5
+1505402599744,Didier Deschamps,France,defensive_organisation,51.0
+1505402599744,Didier Deschamps,France,pressing_structure,102.5
+1505402599744,Didier Deschamps,France,set_pieces,3.5
+1505408315648,Didier Deschamps,France,buildup_quality,178.5
+1505408315648,Didier Deschamps,France,chance_creation,22.0
+1505408315648,Didier Deschamps,France,defensive_organisation,39.5
+1505408315648,Didier Deschamps,France,pressing_structure,60.5
+1505408315648,Didier Deschamps,France,set_pieces,2.6
+1505498319744,Didier Deschamps,France,buildup_quality,70.5
+1505498319744,Didier Deschamps,France,chance_creation,16.5
+1505498319744,Didier Deschamps,France,defensive_organisation,54.0
+1505498319744,Didier Deschamps,France,pressing_structure,58.0
+1505498319744,Didier Deschamps,France,set_pieces,5.0
+1505519814336,Didier Deschamps,France,buildup_quality,56.5
+1505519814336,Didier Deschamps,France,chance_creation,21.0
+1505519814336,Didier Deschamps,France,defensive_organisation,60.5
+1505519814336,Didier Deschamps,France,pressing_structure,82.0
+1505519814336,Didier Deschamps,France,set_pieces,11.4
+1505531687424,Didier Deschamps,France,buildup_quality,129.5
+1505531687424,Didier Deschamps,France,chance_creation,50.0
+1505531687424,Didier Deschamps,France,defensive_organisation,51.0
+1505531687424,Didier Deschamps,France,pressing_structure,48.5
+1505531687424,Didier Deschamps,France,set_pieces,10.7
+1505540711552,Didier Deschamps,France,buildup_quality,33.5
+1505540711552,Didier Deschamps,France,chance_creation,11.0
+1505540711552,Didier Deschamps,France,defensive_organisation,48.0
+1505540711552,Didier Deschamps,France,pressing_structure,89.5
+1505540711552,Didier Deschamps,France,set_pieces,1.6
+1505447766784,Joachim Löw,Germany,buildup_quality,278.5
+1505447766784,Joachim Löw,Germany,chance_creation,64.0
+1505447766784,Joachim Löw,Germany,defensive_organisation,10.0
+1505447766784,Joachim Löw,Germany,pressing_structure,97.5
+1505447766784,Joachim Löw,Germany,set_pieces,8.9
+1505453259712,Joachim Löw,Germany,buildup_quality,241.5
+1505453259712,Joachim Löw,Germany,chance_creation,54.5
+1505453259712,Joachim Löw,Germany,defensive_organisation,11.0
+1505453259712,Joachim Löw,Germany,pressing_structure,75.5
+1505453259712,Joachim Löw,Germany,set_pieces,11.9
+1505458474048,Joachim Löw,Germany,buildup_quality,238.0
+1505458474048,Joachim Löw,Germany,chance_creation,68.0
+1505458474048,Joachim Löw,Germany,defensive_organisation,16.0
+1505458474048,Joachim Löw,Germany,pressing_structure,93.5
+1505458474048,Joachim Löw,Germany,set_pieces,8.7
+1505413955264,Heimir Hallgrímsson,Iceland,buildup_quality,57.0
+1505413955264,Heimir Hallgrímsson,Iceland,chance_creation,20.5
+1505413955264,Heimir Hallgrímsson,Iceland,defensive_organisation,55.0
+1505413955264,Heimir Hallgrímsson,Iceland,pressing_structure,54.5
+1505413955264,Heimir Hallgrímsson,Iceland,set_pieces,0.6
+1505422430784,Heimir Hallgrímsson,Iceland,buildup_quality,76.0
+1505422430784,Heimir Hallgrímsson,Iceland,chance_creation,19.0
+1505422430784,Heimir Hallgrímsson,Iceland,defensive_organisation,18.5
+1505422430784,Heimir Hallgrímsson,Iceland,pressing_structure,75.0
+1505422430784,Heimir Hallgrímsson,Iceland,set_pieces,4.0
+1505427847744,Heimir Hallgrímsson,Iceland,buildup_quality,81.5
+1505427847744,Heimir Hallgrímsson,Iceland,chance_creation,44.5
+1505427847744,Heimir Hallgrímsson,Iceland,defensive_organisation,30.0
+1505427847744,Heimir Hallgrímsson,Iceland,pressing_structure,91.5
+1505427847744,Heimir Hallgrímsson,Iceland,set_pieces,18.5
+1505389374592,Carlos Queiroz,Iran,buildup_quality,23.5
+1505389374592,Carlos Queiroz,Iran,chance_creation,18.0
+1505389374592,Carlos Queiroz,Iran,defensive_organisation,82.5
+1505389374592,Carlos Queiroz,Iran,pressing_structure,50.5
+1505389374592,Carlos Queiroz,Iran,set_pieces,2.6
+1505392215424,Carlos Queiroz,Iran,buildup_quality,88.5
+1505392215424,Carlos Queiroz,Iran,chance_creation,13.5
+1505392215424,Carlos Queiroz,Iran,defensive_organisation,36.5
+1505392215424,Carlos Queiroz,Iran,pressing_structure,70.5
+1505392215424,Carlos Queiroz,Iran,set_pieces,3.8
+1507530935744,Carlos Queiroz,Iran,buildup_quality,-4.5
+1507530935744,Carlos Queiroz,Iran,chance_creation,10.0
+1507530935744,Carlos Queiroz,Iran,defensive_organisation,27.5
+1507530935744,Carlos Queiroz,Iran,pressing_structure,58.5
+1507530935744,Carlos Queiroz,Iran,set_pieces,6.6
+1505481905024,Akira Nishino,Japan,buildup_quality,165.0
+1505481905024,Akira Nishino,Japan,chance_creation,43.0
+1505481905024,Akira Nishino,Japan,defensive_organisation,40.0
+1505481905024,Akira Nishino,Japan,pressing_structure,102.0
+1505481905024,Akira Nishino,Japan,set_pieces,9.8
+1505487784960,Akira Nishino,Japan,buildup_quality,78.5
+1505487784960,Akira Nishino,Japan,chance_creation,28.5
+1505487784960,Akira Nishino,Japan,defensive_organisation,24.0
+1505487784960,Akira Nishino,Japan,pressing_structure,59.0
+1505487784960,Akira Nishino,Japan,set_pieces,3.6
+1505490279744,Akira Nishino,Japan,buildup_quality,102.0
+1505490279744,Akira Nishino,Japan,chance_creation,21.0
+1505490279744,Akira Nishino,Japan,defensive_organisation,39.0
+1505490279744,Akira Nishino,Japan,pressing_structure,69.5
+1505490279744,Akira Nishino,Japan,set_pieces,5.5
+1505511017536,Akira Nishino,Japan,buildup_quality,60.0
+1505511017536,Akira Nishino,Japan,chance_creation,18.0
+1505511017536,Akira Nishino,Japan,defensive_organisation,21.0
+1505511017536,Akira Nishino,Japan,pressing_structure,40.0
+1505511017536,Akira Nishino,Japan,set_pieces,3.3
+1505450602048,Shin Tae-yong,Korea Republic,buildup_quality,59.0
+1505450602048,Shin Tae-yong,Korea Republic,chance_creation,12.0
+1505450602048,Shin Tae-yong,Korea Republic,defensive_organisation,43.5
+1505450602048,Shin Tae-yong,Korea Republic,pressing_structure,69.5
+1505450602048,Shin Tae-yong,Korea Republic,set_pieces,2.5
+1505455874752,Shin Tae-yong,Korea Republic,buildup_quality,83.5
+1505455874752,Shin Tae-yong,Korea Republic,chance_creation,24.5
+1505455874752,Shin Tae-yong,Korea Republic,defensive_organisation,15.5
+1505455874752,Shin Tae-yong,Korea Republic,pressing_structure,62.0
+1505455874752,Shin Tae-yong,Korea Republic,set_pieces,7.6
+1505458474048,Shin Tae-yong,Korea Republic,buildup_quality,66.0
+1505458474048,Shin Tae-yong,Korea Republic,chance_creation,26.0
+1505458474048,Shin Tae-yong,Korea Republic,defensive_organisation,60.0
+1505458474048,Shin Tae-yong,Korea Republic,pressing_structure,35.5
+1505458474048,Shin Tae-yong,Korea Republic,set_pieces,11.4
+1505447766784,Juan Carlos Osorio,Mexico,buildup_quality,56.5
+1505447766784,Juan Carlos Osorio,Mexico,chance_creation,27.5
+1505447766784,Juan Carlos Osorio,Mexico,defensive_organisation,52.0
+1505447766784,Juan Carlos Osorio,Mexico,pressing_structure,31.5
+1505447766784,Juan Carlos Osorio,Mexico,set_pieces,3.8
+1505455874752,Juan Carlos Osorio,Mexico,buildup_quality,110.0
+1505455874752,Juan Carlos Osorio,Mexico,chance_creation,26.5
+1505455874752,Juan Carlos Osorio,Mexico,defensive_organisation,31.0
+1505455874752,Juan Carlos Osorio,Mexico,pressing_structure,96.5
+1505455874752,Juan Carlos Osorio,Mexico,set_pieces,4.5
+1505461377280,Juan Carlos Osorio,Mexico,buildup_quality,148.0
+1505461377280,Juan Carlos Osorio,Mexico,chance_creation,33.0
+1505461377280,Juan Carlos Osorio,Mexico,defensive_organisation,6.0
+1505461377280,Juan Carlos Osorio,Mexico,pressing_structure,84.5
+1505461377280,Juan Carlos Osorio,Mexico,set_pieces,8.6
+1505508243008,Juan Carlos Osorio,Mexico,buildup_quality,116.5
+1505508243008,Juan Carlos Osorio,Mexico,chance_creation,16.0
+1505508243008,Juan Carlos Osorio,Mexico,defensive_organisation,17.5
+1505508243008,Juan Carlos Osorio,Mexico,pressing_structure,65.0
+1505508243008,Juan Carlos Osorio,Mexico,set_pieces,4.1
+1505386425280,Hervé Renard,Morocco,buildup_quality,106.5
+1505386425280,Hervé Renard,Morocco,chance_creation,48.5
+1505386425280,Hervé Renard,Morocco,defensive_organisation,28.5
+1505386425280,Hervé Renard,Morocco,pressing_structure,133.0
+1505386425280,Hervé Renard,Morocco,set_pieces,14.6
+1505394714240,Hervé Renard,Morocco,buildup_quality,24.0
+1505394714240,Hervé Renard,Morocco,chance_creation,14.0
+1505394714240,Hervé Renard,Morocco,defensive_organisation,38.0
+1505394714240,Hervé Renard,Morocco,pressing_structure,49.5
+1505394714240,Hervé Renard,Morocco,set_pieces,7.3
+1507530935744,Hervé Renard,Morocco,buildup_quality,100.5
+1507530935744,Hervé Renard,Morocco,chance_creation,33.0
+1507530935744,Hervé Renard,Morocco,defensive_organisation,31.0
+1507530935744,Hervé Renard,Morocco,pressing_structure,73.0
+1507530935744,Hervé Renard,Morocco,set_pieces,2.5
+1505417014848,Gernot Rohr,Nigeria,buildup_quality,93.0
+1505417014848,Gernot Rohr,Nigeria,chance_creation,29.5
+1505417014848,Gernot Rohr,Nigeria,defensive_organisation,37.5
+1505417014848,Gernot Rohr,Nigeria,pressing_structure,70.0
+1505417014848,Gernot Rohr,Nigeria,set_pieces,4.5
+1505422430784,Gernot Rohr,Nigeria,buildup_quality,107.0
+1505422430784,Gernot Rohr,Nigeria,chance_creation,35.0
+1505422430784,Gernot Rohr,Nigeria,defensive_organisation,60.5
+1505422430784,Gernot Rohr,Nigeria,pressing_structure,60.5
+1505422430784,Gernot Rohr,Nigeria,set_pieces,3.8
+1505424995648,Gernot Rohr,Nigeria,buildup_quality,8.0
+1505424995648,Gernot Rohr,Nigeria,chance_creation,14.5
+1505424995648,Gernot Rohr,Nigeria,defensive_organisation,71.0
+1505424995648,Gernot Rohr,Nigeria,pressing_structure,93.5
+1505424995648,Gernot Rohr,Nigeria,set_pieces,7.4
+1505463762304,Hernán Darío Gómez,Panama,buildup_quality,59.0
+1505463762304,Hernán Darío Gómez,Panama,chance_creation,15.5
+1505463762304,Hernán Darío Gómez,Panama,defensive_organisation,50.0
+1505463762304,Hernán Darío Gómez,Panama,pressing_structure,53.0
+1505463762304,Hernán Darío Gómez,Panama,set_pieces,6.4
+1505471455616,Hernán Darío Gómez,Panama,buildup_quality,97.0
+1505471455616,Hernán Darío Gómez,Panama,chance_creation,23.5
+1505471455616,Hernán Darío Gómez,Panama,defensive_organisation,4.5
+1505471455616,Hernán Darío Gómez,Panama,pressing_structure,28.0
+1505471455616,Hernán Darío Gómez,Panama,set_pieces,8.6
+1505476682368,Hernán Darío Gómez,Panama,buildup_quality,8.0
+1505476682368,Hernán Darío Gómez,Panama,chance_creation,13.5
+1505476682368,Hernán Darío Gómez,Panama,defensive_organisation,17.5
+1505476682368,Hernán Darío Gómez,Panama,pressing_structure,40.0
+1505476682368,Hernán Darío Gómez,Panama,set_pieces,3.5
+1505400047936,Ricardo Gareca,Peru,buildup_quality,100.0
+1505400047936,Ricardo Gareca,Peru,chance_creation,42.5
+1505400047936,Ricardo Gareca,Peru,defensive_organisation,39.5
+1505400047936,Ricardo Gareca,Peru,pressing_structure,59.0
+1505400047936,Ricardo Gareca,Peru,set_pieces,4.9
+1505402599744,Ricardo Gareca,Peru,buildup_quality,93.0
+1505402599744,Ricardo Gareca,Peru,chance_creation,13.0
+1505402599744,Ricardo Gareca,Peru,defensive_organisation,33.0
+1505402599744,Ricardo Gareca,Peru,pressing_structure,74.5
+1505402599744,Ricardo Gareca,Peru,set_pieces,6.4
+1505411108224,Ricardo Gareca,Peru,buildup_quality,51.5
+1505411108224,Ricardo Gareca,Peru,chance_creation,16.0
+1505411108224,Ricardo Gareca,Peru,defensive_organisation,45.5
+1505411108224,Ricardo Gareca,Peru,pressing_structure,41.0
+1505411108224,Ricardo Gareca,Peru,set_pieces,1.9
+1505479299712,Adam Nawałka,Poland,buildup_quality,124.5
+1505479299712,Adam Nawałka,Poland,chance_creation,28.0
+1505479299712,Adam Nawałka,Poland,defensive_organisation,25.0
+1505479299712,Adam Nawałka,Poland,pressing_structure,60.0
+1505479299712,Adam Nawałka,Poland,set_pieces,8.4
+1505484801024,Adam Nawałka,Poland,buildup_quality,97.0
+1505484801024,Adam Nawałka,Poland,chance_creation,19.5
+1505484801024,Adam Nawałka,Poland,defensive_organisation,56.0
+1505484801024,Adam Nawałka,Poland,pressing_structure,93.0
+1505484801024,Adam Nawałka,Poland,set_pieces,5.1
+1505490279744,Adam Nawałka,Poland,buildup_quality,86.5
+1505490279744,Adam Nawałka,Poland,chance_creation,27.5
+1505490279744,Adam Nawałka,Poland,defensive_organisation,22.5
+1505490279744,Adam Nawałka,Poland,pressing_structure,41.5
+1505490279744,Adam Nawałka,Poland,set_pieces,14.1
+1505386425280,Fernando Santos,Portugal,buildup_quality,18.5
+1505386425280,Fernando Santos,Portugal,chance_creation,26.0
+1505386425280,Fernando Santos,Portugal,defensive_organisation,42.5
+1505386425280,Fernando Santos,Portugal,pressing_structure,69.5
+1505386425280,Fernando Santos,Portugal,set_pieces,14.5
+1505392215424,Fernando Santos,Portugal,buildup_quality,152.5
+1505392215424,Fernando Santos,Portugal,chance_creation,13.5
+1505392215424,Fernando Santos,Portugal,defensive_organisation,27.5
+1505392215424,Fernando Santos,Portugal,pressing_structure,60.0
+1505392215424,Fernando Santos,Portugal,set_pieces,5.0
+1505495462784,Fernando Santos,Portugal,buildup_quality,164.5
+1505495462784,Fernando Santos,Portugal,chance_creation,31.5
+1505495462784,Fernando Santos,Portugal,defensive_organisation,43.0
+1505495462784,Fernando Santos,Portugal,pressing_structure,94.0
+1505495462784,Fernando Santos,Portugal,set_pieces,18.5
+1507527976000,Fernando Santos,Portugal,buildup_quality,91.0
+1507527976000,Fernando Santos,Portugal,chance_creation,13.0
+1507527976000,Fernando Santos,Portugal,defensive_organisation,7.5
+1507527976000,Fernando Santos,Portugal,pressing_structure,61.0
+1507527976000,Fernando Santos,Portugal,set_pieces,9.2
+1505500819456,Stanislav Cherchesov,Russia,buildup_quality,15.5
+1505500819456,Stanislav Cherchesov,Russia,chance_creation,4.5
+1505500819456,Stanislav Cherchesov,Russia,defensive_organisation,16.0
+1505500819456,Stanislav Cherchesov,Russia,pressing_structure,117.0
+1505500819456,Stanislav Cherchesov,Russia,set_pieces,6.5
+1505525382400,Stanislav Cherchesov,Russia,buildup_quality,59.5
+1505525382400,Stanislav Cherchesov,Russia,chance_creation,24.5
+1505525382400,Stanislav Cherchesov,Russia,defensive_organisation,75.0
+1505525382400,Stanislav Cherchesov,Russia,pressing_structure,79.5
+1505525382400,Stanislav Cherchesov,Russia,set_pieces,17.8
+1507511114560,Stanislav Cherchesov,Russia,buildup_quality,90.0
+1507511114560,Stanislav Cherchesov,Russia,chance_creation,35.0
+1507511114560,Stanislav Cherchesov,Russia,defensive_organisation,21.0
+1507511114560,Stanislav Cherchesov,Russia,pressing_structure,89.0
+1507511114560,Stanislav Cherchesov,Russia,set_pieces,9.3
+1507516947840,Stanislav Cherchesov,Russia,buildup_quality,75.0
+1507516947840,Stanislav Cherchesov,Russia,chance_creation,26.5
+1507516947840,Stanislav Cherchesov,Russia,defensive_organisation,57.5
+1507516947840,Stanislav Cherchesov,Russia,pressing_structure,114.5
+1507516947840,Stanislav Cherchesov,Russia,set_pieces,8.1
+1507522717504,Stanislav Cherchesov,Russia,buildup_quality,66.0
+1507522717504,Stanislav Cherchesov,Russia,chance_creation,7.5
+1507522717504,Stanislav Cherchesov,Russia,defensive_organisation,28.5
+1507522717504,Stanislav Cherchesov,Russia,pressing_structure,79.5
+1507522717504,Stanislav Cherchesov,Russia,set_pieces,1.6
+1507511114560,Juan Antonio Pizzi,Saudi Arabia,buildup_quality,70.5
+1507511114560,Juan Antonio Pizzi,Saudi Arabia,chance_creation,14.0
+1507511114560,Juan Antonio Pizzi,Saudi Arabia,defensive_organisation,35.0
+1507511114560,Juan Antonio Pizzi,Saudi Arabia,pressing_structure,30.5
+1507511114560,Juan Antonio Pizzi,Saudi Arabia,set_pieces,1.6
+1507519891264,Juan Antonio Pizzi,Saudi Arabia,buildup_quality,102.0
+1507519891264,Juan Antonio Pizzi,Saudi Arabia,chance_creation,12.5
+1507519891264,Juan Antonio Pizzi,Saudi Arabia,defensive_organisation,27.5
+1507519891264,Juan Antonio Pizzi,Saudi Arabia,pressing_structure,67.0
+1507519891264,Juan Antonio Pizzi,Saudi Arabia,set_pieces,4.7
+1507525207360,Juan Antonio Pizzi,Saudi Arabia,buildup_quality,187.0
+1507525207360,Juan Antonio Pizzi,Saudi Arabia,chance_creation,42.0
+1507525207360,Juan Antonio Pizzi,Saudi Arabia,defensive_organisation,35.5
+1507525207360,Juan Antonio Pizzi,Saudi Arabia,pressing_structure,78.5
+1507525207360,Juan Antonio Pizzi,Saudi Arabia,set_pieces,11.1
+1505479299712,Aliou Cissé,Senegal,buildup_quality,61.0
+1505479299712,Aliou Cissé,Senegal,chance_creation,21.5
+1505479299712,Aliou Cissé,Senegal,defensive_organisation,40.0
+1505479299712,Aliou Cissé,Senegal,pressing_structure,57.5
+1505479299712,Aliou Cissé,Senegal,set_pieces,4.4
+1505487784960,Aliou Cissé,Senegal,buildup_quality,91.5
+1505487784960,Aliou Cissé,Senegal,chance_creation,40.0
+1505487784960,Aliou Cissé,Senegal,defensive_organisation,25.5
+1505487784960,Aliou Cissé,Senegal,pressing_structure,87.5
+1505487784960,Aliou Cissé,Senegal,set_pieces,4.5
+1505492994624,Aliou Cissé,Senegal,buildup_quality,80.0
+1505492994624,Aliou Cissé,Senegal,chance_creation,7.5
+1505492994624,Aliou Cissé,Senegal,defensive_organisation,50.5
+1505492994624,Aliou Cissé,Senegal,pressing_structure,72.0
+1505492994624,Aliou Cissé,Senegal,set_pieces,5.3
+1505433236736,Mladen Krstajić,Serbia,buildup_quality,119.0
+1505433236736,Mladen Krstajić,Serbia,chance_creation,30.0
+1505433236736,Mladen Krstajić,Serbia,defensive_organisation,46.5
+1505433236736,Mladen Krstajić,Serbia,pressing_structure,87.5
+1505433236736,Mladen Krstajić,Serbia,set_pieces,11.7
+1505439000640,Mladen Krstajić,Serbia,buildup_quality,93.5
+1505439000640,Mladen Krstajić,Serbia,chance_creation,41.5
+1505439000640,Mladen Krstajić,Serbia,defensive_organisation,3.0
+1505439000640,Mladen Krstajić,Serbia,pressing_structure,96.0
+1505439000640,Mladen Krstajić,Serbia,set_pieces,7.9
+1505441852800,Mladen Krstajić,Serbia,buildup_quality,140.5
+1505441852800,Mladen Krstajić,Serbia,chance_creation,32.0
+1505441852800,Mladen Krstajić,Serbia,defensive_organisation,20.5
+1505441852800,Mladen Krstajić,Serbia,pressing_structure,93.0
+1505441852800,Mladen Krstajić,Serbia,set_pieces,3.5
+1505389374592,Fernando Hierro,Spain,buildup_quality,167.0
+1505389374592,Fernando Hierro,Spain,chance_creation,39.5
+1505389374592,Fernando Hierro,Spain,defensive_organisation,18.5
+1505389374592,Fernando Hierro,Spain,pressing_structure,88.0
+1505389374592,Fernando Hierro,Spain,set_pieces,12.3
+1505394714240,Fernando Hierro,Spain,buildup_quality,221.0
+1505394714240,Fernando Hierro,Spain,chance_creation,48.5
+1505394714240,Fernando Hierro,Spain,defensive_organisation,-3.0
+1505394714240,Fernando Hierro,Spain,pressing_structure,92.5
+1505394714240,Fernando Hierro,Spain,set_pieces,18.1
+1505500819456,Fernando Hierro,Spain,buildup_quality,373.0
+1505500819456,Fernando Hierro,Spain,chance_creation,51.5
+1505500819456,Fernando Hierro,Spain,defensive_organisation,41.0
+1505500819456,Fernando Hierro,Spain,pressing_structure,116.0
+1505500819456,Fernando Hierro,Spain,set_pieces,8.8
+1507527976000,Fernando Hierro,Spain,buildup_quality,143.5
+1507527976000,Fernando Hierro,Spain,chance_creation,30.0
+1507527976000,Fernando Hierro,Spain,defensive_organisation,31.0
+1507527976000,Fernando Hierro,Spain,pressing_structure,82.0
+1507527976000,Fernando Hierro,Spain,set_pieces,11.0
+1505450602048,Janne Andersson,Sweden,buildup_quality,114.0
+1505450602048,Janne Andersson,Sweden,chance_creation,36.0
+1505450602048,Janne Andersson,Sweden,defensive_organisation,62.0
+1505450602048,Janne Andersson,Sweden,pressing_structure,66.5
+1505450602048,Janne Andersson,Sweden,set_pieces,13.8
+1505453259712,Janne Andersson,Sweden,buildup_quality,-4.5
+1505453259712,Janne Andersson,Sweden,chance_creation,21.0
+1505453259712,Janne Andersson,Sweden,defensive_organisation,54.5
+1505453259712,Janne Andersson,Sweden,pressing_structure,44.5
+1505453259712,Janne Andersson,Sweden,set_pieces,4.9
+1505461377280,Janne Andersson,Sweden,buildup_quality,24.0
+1505461377280,Janne Andersson,Sweden,chance_creation,43.5
+1505461377280,Janne Andersson,Sweden,defensive_organisation,39.5
+1505461377280,Janne Andersson,Sweden,pressing_structure,49.5
+1505461377280,Janne Andersson,Sweden,set_pieces,10.4
+1505513912320,Janne Andersson,Sweden,buildup_quality,55.5
+1505513912320,Janne Andersson,Sweden,chance_creation,29.5
+1505513912320,Janne Andersson,Sweden,defensive_organisation,71.0
+1505513912320,Janne Andersson,Sweden,pressing_structure,70.5
+1505513912320,Janne Andersson,Sweden,set_pieces,7.4
+1505528995392,Janne Andersson,Sweden,buildup_quality,80.0
+1505528995392,Janne Andersson,Sweden,chance_creation,25.0
+1505528995392,Janne Andersson,Sweden,defensive_organisation,72.0
+1505528995392,Janne Andersson,Sweden,pressing_structure,51.5
+1505528995392,Janne Andersson,Sweden,set_pieces,2.8
+1505430370752,Vladimir Petković,Switzerland,buildup_quality,82.5
+1505430370752,Vladimir Petković,Switzerland,chance_creation,13.0
+1505430370752,Vladimir Petković,Switzerland,defensive_organisation,27.5
+1505430370752,Vladimir Petković,Switzerland,pressing_structure,66.0
+1505430370752,Vladimir Petković,Switzerland,set_pieces,8.6
+1505439000640,Vladimir Petković,Switzerland,buildup_quality,93.0
+1505439000640,Vladimir Petković,Switzerland,chance_creation,35.5
+1505439000640,Vladimir Petković,Switzerland,defensive_organisation,20.5
+1505439000640,Vladimir Petković,Switzerland,pressing_structure,63.0
+1505439000640,Vladimir Petković,Switzerland,set_pieces,11.6
+1505444971392,Vladimir Petković,Switzerland,buildup_quality,102.5
+1505444971392,Vladimir Petković,Switzerland,chance_creation,31.0
+1505444971392,Vladimir Petković,Switzerland,defensive_organisation,2.0
+1505444971392,Vladimir Petković,Switzerland,pressing_structure,76.0
+1505444971392,Vladimir Petković,Switzerland,set_pieces,4.8
+1505513912320,Vladimir Petković,Switzerland,buildup_quality,120.0
+1505513912320,Vladimir Petković,Switzerland,chance_creation,37.5
+1505513912320,Vladimir Petković,Switzerland,defensive_organisation,27.5
+1505513912320,Vladimir Petković,Switzerland,pressing_structure,51.5
+1505513912320,Vladimir Petković,Switzerland,set_pieces,14.8
+1505466352512,Nabil Maâloul,Tunisia,buildup_quality,-3.5
+1505466352512,Nabil Maâloul,Tunisia,chance_creation,10.0
+1505466352512,Nabil Maâloul,Tunisia,defensive_organisation,47.0
+1505466352512,Nabil Maâloul,Tunisia,pressing_structure,46.5
+1505466352512,Nabil Maâloul,Tunisia,set_pieces,0.6
+1505468855744,Nabil Maâloul,Tunisia,buildup_quality,71.0
+1505468855744,Nabil Maâloul,Tunisia,chance_creation,22.5
+1505468855744,Nabil Maâloul,Tunisia,defensive_organisation,-12.5
+1505468855744,Nabil Maâloul,Tunisia,pressing_structure,53.0
+1505468855744,Nabil Maâloul,Tunisia,set_pieces,6.6
+1505476682368,Nabil Maâloul,Tunisia,buildup_quality,164.0
+1505476682368,Nabil Maâloul,Tunisia,chance_creation,54.5
+1505476682368,Nabil Maâloul,Tunisia,defensive_organisation,22.0
+1505476682368,Nabil Maâloul,Tunisia,pressing_structure,65.0
+1505476682368,Nabil Maâloul,Tunisia,set_pieces,3.8
+1505495462784,Óscar Tabárez,Uruguay,buildup_quality,58.0
+1505495462784,Óscar Tabárez,Uruguay,chance_creation,21.5
+1505495462784,Óscar Tabárez,Uruguay,defensive_organisation,64.5
+1505495462784,Óscar Tabárez,Uruguay,pressing_structure,65.5
+1505495462784,Óscar Tabárez,Uruguay,set_pieces,2.1
+1505519814336,Óscar Tabárez,Uruguay,buildup_quality,97.5
+1505519814336,Óscar Tabárez,Uruguay,chance_creation,22.0
+1505519814336,Óscar Tabárez,Uruguay,defensive_organisation,43.0
+1505519814336,Óscar Tabárez,Uruguay,pressing_structure,110.0
+1505519814336,Óscar Tabárez,Uruguay,set_pieces,10.2
+1507513892608,Óscar Tabárez,Uruguay,buildup_quality,151.5
+1507513892608,Óscar Tabárez,Uruguay,chance_creation,23.0
+1507513892608,Óscar Tabárez,Uruguay,defensive_organisation,54.0
+1507513892608,Óscar Tabárez,Uruguay,pressing_structure,89.0
+1507513892608,Óscar Tabárez,Uruguay,set_pieces,14.5
+1507519891264,Óscar Tabárez,Uruguay,buildup_quality,114.0
+1507519891264,Óscar Tabárez,Uruguay,chance_creation,41.5
+1507519891264,Óscar Tabárez,Uruguay,defensive_organisation,23.5
+1507519891264,Óscar Tabárez,Uruguay,pressing_structure,70.0
+1507519891264,Óscar Tabárez,Uruguay,set_pieces,13.4
+1507522717504,Óscar Tabárez,Uruguay,buildup_quality,106.5
+1507522717504,Óscar Tabárez,Uruguay,chance_creation,25.5
+1507522717504,Óscar Tabárez,Uruguay,defensive_organisation,25.0
+1507522717504,Óscar Tabárez,Uruguay,pressing_structure,49.5
+1507522717504,Óscar Tabárez,Uruguay,set_pieces,21.2
