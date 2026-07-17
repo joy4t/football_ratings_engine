@@ -1,4 +1,4 @@
-# PlayerNation Ratings Engine
+# Football Ratings Engine
 
 A methodology and working solution for rating every player and every coach at the FIFA World Cup 2018, built on the Wyscout event dataset.
 
